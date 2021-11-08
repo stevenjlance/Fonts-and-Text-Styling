@@ -1,4 +1,4 @@
-let fortunes = [
+let fortunes = [ 
   "A beautiful, smart, and loving person will be coming into your life.",
   "A dubious friend may be an enemy in camouflage.",
   "A feather in the hand is better than a bird in the air. (2)",

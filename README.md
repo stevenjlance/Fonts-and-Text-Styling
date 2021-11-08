@@ -37,6 +37,6 @@ There are far more fonts that can be stored on a single computer. We can use web
 - 2 Display Fonts
 - 2 Handwriting Fonts
 
-Load each into your program and create a mini “About Me” page that renders text using each of these fonts. **Bonus**: Change the background color to your favorite color.
+Load each into your program and create a mini “About Me” page that renders text using each of these fonts. **Bonus**: Change the background color to your favorite color. 
 
 5. An array of fortunes called `fortunes` has been provided for you on `fortunes.js`. Have the program randomly display a different fortune every time. **DOUBLE BONUS CHALLENGE**: Create an array of fonts and have a different font render every time the program runs.
